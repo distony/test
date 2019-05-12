@@ -10,7 +10,7 @@ Lavender is a fairly specific shade of purple, but what can we expect of the mor
 
 Beyond the coral and blue, the iPhone XR currently comes in black, white, yellow, and \(PRODUCT\) RED. When the iPhone XR debuted in September 2018, it was Apple's first splash back into bright colors since the iPhone 5C launched in 2013 with blue, green, yellow, pink, and white color choices.
 
-The green iPhone 5C was a fairly bright green shade \(like a fluorescent spearmint\), if that offers any clues to the rumored new iPhone XR color.
+The green iPhone 5C was a fairly bright green shade \(like a fluorescent spearmint\), if that offers any clues to the rumored new iPhone XR color.![](https://mondrian.mashable.com/uploads%2Fcard%2Fimage%2F984627%2F3250352d-a9fd-4561-b409-08ff5e778895.jpg%2Ffit-in__1200x9600.jpg?signature=8KFsPFtyNCPVW7pPpmRYJeMEAE8=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com)
 
-![](https://mondrian.mashable.com/uploads%2Fcard%2Fimage%2F984627%2F3250352d-a9fd-4561-b409-08ff5e778895.jpg%2Ffit-in__1200x9600.jpg?signature=8KFsPFtyNCPVW7pPpmRYJeMEAE8=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com)_The new iPhone XR will likely debut later this year._
+_The new iPhone XR will likely debut later this year._
 
