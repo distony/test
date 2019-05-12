@@ -1,6 +1,4 @@
-# Bye, blue and coral:Apple reportedly swapping in two new iPhone XR colors
-
-![](https://mondrian.mashable.com/uploads%2Fcard%2Fimage%2F984632%2Fd421c28c-afa8-4a03-b983-53b69e70f5f1.jpg%2F950x534__filters%3Aquality%2890%29.jpg?signature=jsMDCTWe4RbNq3HFTgKJiqAV3ao=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com)
+## Bye, blue and coral:Apple reportedly swapping in two new iPhone XR colors![](https://mondrian.mashable.com/uploads%2Fcard%2Fimage%2F984632%2Fd421c28c-afa8-4a03-b983-53b69e70f5f1.jpg%2F950x534__filters%3Aquality%2890%29.jpg?signature=jsMDCTWe4RbNq3HFTgKJiqAV3ao=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com)
 
 Bye, coral. Bye, blue. Hello, green. Hello, lavender.
 
