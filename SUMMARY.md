@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [HOME](README.md)
 * [NEWS](news.md)
 * [REVIEWS](reviews.md)
 * [ARTICALS](articals.md)
