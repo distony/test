@@ -1,5 +1,5 @@
 ---
-description: OVERVIEW of this sit
+description: OVERVIEW of this site
 ---
 
 
