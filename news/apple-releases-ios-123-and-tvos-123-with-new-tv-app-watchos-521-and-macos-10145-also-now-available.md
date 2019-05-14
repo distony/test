@@ -4,7 +4,7 @@ Have you been waiting for the public release of iOS 12.3? If so, today is your d
 
 In addition to iOS 12.3, Apple today is also releasing watchOS 5.2.1, macOS Mojave 10.14.5, and tvOS 12.3. The third-generation Apple TV 3 is also getting a new 7.3 software version.
 
-Headlining today’s releases is the new [TV application](https://www.apple.com/newsroom/2019/05/all-new-apple-tv-app-available-in-over-100-countries-starting-today/)on iOS 12.3, tvOS 12.3, and Apple TV Software 7.3. The new TV appincludes Apple TV Channels, a feature that simplifies streaming video subscription services by bringing them all into a single app. The billing is handled by Apple, and all of the content is hosted by Apple and viewed in the TV application itself.
+Headlining today’s releases is the new [TV application](https://www.apple.com/newsroom/2019/05/all-new-apple-tv-app-available-in-over-100-countries-starting-today/) on iOS 12.3, tvOS 12.3, and Apple TV Software 7.3. The new TV appincludes Apple TV Channels, a feature that simplifies streaming video subscription services by bringing them all into a single app. The billing is handled by Apple, and all of the content is hosted by Apple and viewed in the TV application itself.
 
 At launch, Apple TV Channels supports thelikes of HBO, Showtime, Stars, Cinemax, Epix, Smithsonian, Acorn TV, and more. As time progresses, we can expect more services to be added. Most of the services include free trial periods, as well. HBO specifically is unique because it includes support for downloading content offline.
 
