@@ -1,6 +1,4 @@
-Apple releases iOS 12.3 & tvOS 12.3 with new TV app, watchOS 5.2.1 & macOS 10.14.5 also now available
-
-
+# Apple releases iOS 12.3 & tvOS 12.3 with new TV app, watchOS 5.2.1 & macOS 10.14.5 also now available
 
 Have you been waiting for the public release of iOS 12.3? If so, today is your day. Apple has released iOS 12.3 to everyone after six developer betas. Read on for a roundup of all the new features you’ll get with iOS 12.3.
 
