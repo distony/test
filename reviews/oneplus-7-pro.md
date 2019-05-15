@@ -1,50 +1,23 @@
-OnePlus 7 Pro Reviews
+# OnePlus 7 Pro Reviews
+
+[10 exciting OnePlus 7 Pro features you won’t find on any iPhone](https://bgr.com/2019/05/14/onepus-7-pro-vs-iphone-xs-max-review-features-comparison/)
+
+* All-screen design
+* Pop-up selfie camera
+* In-display fingerprint senso
+* 90 Hz refresh rat
+* Ultra wide-angle lens
+* 3x optical zoo
+* Zen Mode
+* Up to 12GB of RAM and UFS 3.0 storage
+* Warp Charge 3
+* A reasonable price tag
 
 
 
-10 exciting OnePlus 7 Pro features you won’t find on any iPhone
+[The OnePlus 7 Pro will be available on May 17th, starts at $670](https://www.androidpolice.com/2019/05/14/the-oneplus-7-pro-is-official-live-updates-as-theyre-announced/)
 
-All-screen design
+&lt;iframe width="668" height="376" src="https://www.youtube.com/embed/rQEtyuhLEAA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
-Pop-up selfie camer
-
-In-display fingerprint senso
-
-90 Hz refresh rat
-
-Ultra wide-angle lens
-
-3x optical zoo
-
-Zen Mode
-
-Up to 12GB of RAM and UFS 3.0 storage
-
-
-
-Image Source: Zach Epstein, BGR
-
-
-
-The OnePlus 7 Pro is the first smartphone to be equipped with new UFS 3.0 flash storage chips. OnePlus says the new standard is about nine times faster than the UFS 2.1 storage found in other smartphones like the iPhone. On top of that, the OnePlus 7 Pro can be purchased with as much as 12GB of RAM, which is three times more RAM than the iPhone XS and iPhone XS Max.
-
-
-
-The 256GB OnePlus 7 Pro I’ve been testing has 12GB of RAM and it is remarkably fast. It will be interesting to see how it stacks up against the iPhone XS when real-life speed tests being hitting YouTube.
-
-
-
-Warp Charge 30
-
-Image Source: Zach Epstein, BGR
-
-
-
-Charging speed is one area where Apple just can’t seem to catch up with its Android rivals. Its latest iPhones support faster wired and wireless charging speeds than earlier models, but they’re still nowhere close to matching flagship Android phones.
-
-
-
-The OnePlus 7 Pro still doesn’t include wireless charging support, which is infuriating. It makes up for the omission at least in part by supporting lightning-fast wired charging speeds of up to 30 watts. OnePlus’ Warp Charge 30 technology is 38% faster than its previous-generation fast charging tech, and it’s almost twice as fast as Apple’s iPhone XS, XS Max, and XR, which max out at 18 watts.
-
-A reasonable price tag
+Details regarding the OnePlus 7 Pro have leaked consistently over the last few weeks, but the phone was formally unveiled just today at the company's launch event in New York City. The phone delivers quite a few new features, including a 6.67" 90Hz display and a pop-up front-facing camera, and improvement to haptics, as well as all the accouterments expected in a 2019 flagship like a Snapdragon 855 SoC, proprietary fast-charging upgrades \(30W this time around\), and super-fast UFS 3.0 storage. You get all that starting at $670.
 
